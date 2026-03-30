@@ -1,0 +1,14 @@
+# Python 虛擬環境
+.venv/
+
+# Python 編譯快取資料夾
+__pycache__/
+
+# 型別檢查快取
+.mypy_cache/
+
+# VS Code 工作區設定
+.vscode/
+
+# 本機 SQLite 資料庫檔案
+app.db
